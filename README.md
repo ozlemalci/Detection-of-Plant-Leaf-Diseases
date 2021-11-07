@@ -1,7 +1,9 @@
 # Detection-of-Plant-Leaf-Diseases
 ## plantae_k Dataset
 * It is a dataset of 2153 images divided into 16 categories by species and health status.
-Dataset link address: https://data.mendeley.com/datasets/t6j2h22jpx/1
+* Dataset link address: https://data.mendeley.com/datasets/t6j2h22jpx/1
+* In this study, since the leaf image files are large, 200 leaf image files were used.
+* The leaves of Cherry and Pear plants were selected from 16 categories.
 
 ![2](https://user-images.githubusercontent.com/45728972/140645324-5d29563a-0d12-414a-b529-71259df8dc31.PNG)
 
